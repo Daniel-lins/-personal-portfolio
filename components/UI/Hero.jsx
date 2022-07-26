@@ -34,7 +34,9 @@ const Hero = () => {
                 </button>
 
                 <button className="secondary__btn">
-                  <Link href="#">Download CV</Link>
+                  <a href="Junior.pdf" download>
+                    Download CV
+                  </a>
                 </button>
               </div>
             </div>
